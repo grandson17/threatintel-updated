@@ -1,0 +1,8 @@
+scapy
+requests
+pyshark
+collections
+os
+hashlib
+time
+tabulate
